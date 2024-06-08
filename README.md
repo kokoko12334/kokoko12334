@@ -17,14 +17,11 @@
 #  📎 Github stat 📎
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoko12334&langs_count=10&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=kokoko12334&theme=tokyonight&show_icons=true&count_private=true" width="42%" />
 </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kokoko12334&theme=date_night)
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
+
 <br/>
 
 #  🏆 Baekjoon ranking 🏆
