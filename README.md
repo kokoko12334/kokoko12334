@@ -20,19 +20,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoko12334&langs_count=10&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=kokoko12334&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kokoko12334&theme=tokyonight&show_icons=true&count_private=true" width="42%" />
 </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kokoko12334&theme=date_night)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokoko12334&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/kokoko12334/kokoko12334.git)
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
 <br/>
 
 #  🏆 Baekjoon ranking 🏆
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gnjgnjgnj)](https://solved.ac/gnjgnjgnj)
-
 
 <br/>
 
