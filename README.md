@@ -25,7 +25,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kokoko12334&theme=date_night)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokoko12334&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/jogilsang/jogilsang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokoko12334&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/kokoko12334/kokoko12334.git)
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 <br/>
 
