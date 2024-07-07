@@ -24,10 +24,6 @@
 
 <br/>
 
-#  🏆 Baekjoon ranking 🏆
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gnjgnjgnj)](https://solved.ac/gnjgnjgnj)
-
 <br/>
 
 #  🔗 Link 🔗
