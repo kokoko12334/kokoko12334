@@ -23,9 +23,3 @@
 </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kokoko12334&theme=date_night)
-
-
-
-- [프로젝트 1: 프로젝트 이름](링크-예: https://github.com/yourusername/project1)
-- [프로젝트 2: 프로젝트 이름](링크-예: https://github.com/yourusername/project2)
-- [프로젝트 3: 프로젝트 이름](링크-예: https://github.com/yourusername/project3)
