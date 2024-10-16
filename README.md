@@ -24,4 +24,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kokoko12334&theme=date_night)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokoko12334&layout=compact)](https://github.com/delay-100/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokoko12334&layout=compact&hide=assembly,go,roff)](https://github.com/kokoko12334/github-readme-stats)
