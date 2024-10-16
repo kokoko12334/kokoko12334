@@ -23,3 +23,5 @@
 </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kokoko12334&theme=date_night)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokoko12334&layout=compact)](https://github.com/delay-100/github-readme-stats)
