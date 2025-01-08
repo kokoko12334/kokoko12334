@@ -5,9 +5,6 @@
 <img src="https://user-images.githubusercontent.com/97100324/148666300-5e4760fd-9396-4327-b3dd-63ed79dfc1dd.jpg" alt="download" style="zoom:50%;" /> 
 
 
-## 🔗 Connect with Me
-[![Blog](https://img.shields.io/badge/Blog-FF4500?style=flat&logo=blogger&logoColor=white)](https://kokoko12334.tistory.com/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gnjgnjgnj@naver.com)
-
 <br>
 
 ## ⚡ Skills
